@@ -1,1 +1,2 @@
-// Merge Sort optimized solution
+// Merge Sort optimized alogorithm
+// Time Complexity: O(n log n)
