@@ -1,3 +1,4 @@
+// bubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the
 function BubbleSort(arr, n) {
   for (let i = n - 1; i >= 1; i--) {
     let didSwap = 0;

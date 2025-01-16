@@ -1,3 +1,4 @@
+// insertion sort is a simple sorting algorithm that builds the final sorted array one item at a time.
 function InsertionSort(arr, n) {
   for (let i = 0; i < n; i++) {
     // take the boxes one by one like 1, 2, 3, 4, 5, 6
